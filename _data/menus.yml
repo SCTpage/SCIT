@@ -1,0 +1,39 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+- title: About
+  url: "about/"
+
+- title: Collaborate
+  url: "contact/"
+
+- title: Projects
+  url: "projects/" 
+
+- title: Teams
+  url: "teams/"  
+
+- title: Education
+  url: "education/"  
+
+- title: Journal
+  url: "journal/"  
+
+- title: GitHub
+  url: https://github.com/SCIT-ceo
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Privacy Policy
+  url: "privacy-policy/"
+
+
